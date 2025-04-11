@@ -38,7 +38,7 @@
   
   /* Page 1: Landing Section */
   .page1 {
-    background: url('Media/barren_land10.jpg') no-repeat center center/cover;
+    background: url('barren_land10.jpg') no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: white;
